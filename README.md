@@ -1,1 +1,2 @@
-# pattern-recognition
+#   Pattern-Recognition
+The objective of this paper is to develop machine learning algorithms to approximate the median price of a property in a larger geographic area of the state of California based on a set of objective characteristics of properties in that area. Each such area is actually the smallest geographic entity recorded in the relevant 1990 census with a population range of between 600 and 3000.
